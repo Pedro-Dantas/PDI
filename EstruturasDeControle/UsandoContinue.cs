@@ -6,7 +6,7 @@ namespace CursoCSharp.EstruturasDeControle
 {
     class UsandoContinue
     {
-        public static void Executar() 
+        public static void Executar()
         {
             int intervalo = 50;
 
