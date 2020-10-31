@@ -10,9 +10,7 @@ namespace CursoCSharp.ClassesEMetodos
 
             pedro.Nome = "Pedro Dantas";
             pedro.Idade = 22;
-
-            //  Console.WriteLine($"{pedro.Nome} tem {pedro.Idade} anos.");
-
+            
             pedro.ApresentarNoConsole();
             pedro.Zerar();
             pedro.ApresentarNoConsole();
@@ -24,9 +22,6 @@ namespace CursoCSharp.ClassesEMetodos
             var apresentacaoDaFulana = fulana.Apresentar();
             Console.WriteLine(apresentacaoDaFulana.Length);
             Console.WriteLine(apresentacaoDaFulana);
-
-
-
         }
     }
 }
